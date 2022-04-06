@@ -53,3 +53,12 @@ body{
     padding: 0;
     margin: 0;
 }
+
+.sns {
+    margin-top: 30px;
+}
+
+.sns img{
+    width: 20px;
+    height: 20px;
+}
